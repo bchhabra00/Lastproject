@@ -1,22 +1,24 @@
+About
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Book lending API is created with node version 0.31.0
 
+Dependencies
 
-Welcome to your Node.js project on Cloud9 IDE!
+Following are the project dependencies:
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+Hapi
+Monk(not used in the project)
+Firebase
+dotenv(not used in the project)
 
-## Running the server
+Steps to run the project
 
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
+Install node and all the dependencies.
 
-2) Alternatively you can launch the app from the Terminal:
+Run command, once you are inside the project directory.
+node index.js
+You can check the project on the http://assignment4-bchhabra00.c9users.io:8080/
+Now you can run the post commands by using postman as i have done it myself.
 
-    $ node server.js
+For the convenience, commands are included into example.json file.
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
