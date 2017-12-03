@@ -27,6 +27,8 @@ You can run the post commands by using postman as i have done it myself.
 
 For your convenience, commands are included into example.json file.
 
+Sorry for the inconvenience if it cause in directing you to the url.
+
 Team members are:
 
 AKASHDEEP KAUR
