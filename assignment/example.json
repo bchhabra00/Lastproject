@@ -1,0 +1,75 @@
+I have used Postman software  for adding by using different methods to see the commands are working.
+
+The structure looks like this
+
+{
+"books":{
+"Author":"Jordan Miller",
+"Title":"Man in the hunt"
+"genre":"music",
+"isbn":"123"
+
+}
+"users":{
+"Name": "Akshil",
+"email":akshil@gmail.com,
+"Books_Borrowed":"5",
+"Books_Received":"6",
+"id":"1002"
+}
+}
+
+1.Home: http://assignment4-bchhabra00.c9users.io:8080/
+
+2. Get Books://limit 5
+
+http://assignment4-bchhabra00.c9users.io:8080/Books
+
+3. Get BooksId(dynamic):
+
+http://assignment4-bchhabra00.c9users.io:8080/Books/123
+
+4.Post Books:done in postman to check the data.
+
+5.Update Books : done in postman to check the data.
+
+6. DELETE books : 
+
+http://assignment4-bchhabra00.c9users.io:8080/Books/123
+
+7.QUERY BOOKS
+
+    Genre Query
+    http://assignment4-bchhabra00.c9users.io:8080/?genre="music"
+
+    Title Query
+    http://assignment4-bchhabra00.c9users.io:8080/?title="Man in the hunt"
+
+    author Query
+    http://assignment4-bchhabra00.c9users.io:8080/?author="Jordan Miller"
+    
+    
+    
+    Users:
+    
+   1.Home: http://assignment4-bchhabra00.c9users.io:8080/
+   
+   
+   2. Users:
+   
+   http://assignment4-bchhabra00.c9users.io:8080/Users
+   
+   3. Users id(dynamic):
+   
+   http://assignment4-bchhabra00.c9users.io:8080/Users/
+   
+  4.Post Books:done in postman to check the data.
+
+  5.Update Books : done in postman to check the data.
+  
+  
+  6.Delete users : 
+  
+  http://assignment4-bchhabra00.c9users.io:8080/Users/akshil@gmail.com
+  
+  7.
