@@ -1,6 +1,12 @@
 I have used Postman software  for adding by using different methods to see the commands are working.
 
-The structure looks like this
+You can check the project on the http://assignment4-bchhabra00.c9users.io:8080/ as i have done it locally its taking my username..so for yours :click on link which is generated once you run (node index.js) command..Browser will automatically open up the link.
+
+It says the following words:
+
+Server running at: http://0.0.0.0:8080
+
+The structure for data looks in the following way:
 
 {
 "books":{
